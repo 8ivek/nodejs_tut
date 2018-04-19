@@ -1,3 +1,6 @@
+/**
+ * Starting with creating a plane server
+ */
 var http = require('http');
 
 http.createServer(function (req, res) {

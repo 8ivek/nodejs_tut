@@ -1,3 +1,8 @@
+/**
+ * Server with exports
+ * See how require and exports.data works.
+ */
+
 var http = require('http');
 var dt = require('./module');
 

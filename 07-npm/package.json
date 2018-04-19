@@ -1,0 +1,33 @@
+{
+  "name": "npm-tut",
+  "version": "1.0.0",
+  "description": "Tutorial for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8ivek/nodejs_tut.git"
+  },
+  "keywords": [
+    "nodejs",
+    "tutorial",
+    "development",
+    "programming",
+    "zero",
+    "to",
+    "hero",
+    "hero"
+  ],
+  "author": "Bivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8ivek/nodejs_tut/issues"
+  },
+  "homepage": "https://github.com/8ivek/nodejs_tut#readme",
+  "dependencies": {
+    "random-sentence": "^1.0.4",
+    "upper-case": "^1.1.3"
+  }
+}
