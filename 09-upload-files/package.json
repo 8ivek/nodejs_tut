@@ -1,0 +1,30 @@
+{
+  "name": "upload-files",
+  "version": "1.0.0",
+  "description": "A web page in Node.js that lets the user upload files to your computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8ivek/nodejs_tut.git"
+  },
+  "keywords": [
+    "upload",
+    "files",
+    "nodejs",
+    "tutorial",
+    "formidable"
+  ],
+  "author": "Bivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8ivek/nodejs_tut/issues"
+  },
+  "homepage": "https://github.com/8ivek/nodejs_tut#readme",
+  "dependencies": {
+    "formidable": "^1.2.1",
+    "mv": "^2.1.1"
+  }
+}

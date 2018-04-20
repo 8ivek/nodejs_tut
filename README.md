@@ -1,7 +1,14 @@
 # nodejs_tut
 zero to hundred percent : nodejs tutorials for devs
 
-###Usage
+##Usage
 _node filename.extension_
-*example:*
+
+example:
+
 node index.js
+
+##NPM
+run __"npm install"__
+whenever we are requiring new modules
+
