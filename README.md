@@ -6,7 +6,7 @@ _node filename.extension_
 
 example:
 
-node index.js
+> node index.js
 
 ##NPM
 run __"npm install"__

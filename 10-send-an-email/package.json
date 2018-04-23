@@ -1,0 +1,29 @@
+{
+  "name": "send-an-email",
+  "version": "1.0.0",
+  "description": "Nodemailer module makes it easy to send emails from your computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8ivek/nodejs_tut.git"
+  },
+  "keywords": [
+    "Send",
+    "an",
+    "email",
+    "in",
+    "nodejs"
+  ],
+  "author": "Bivek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8ivek/nodejs_tut/issues"
+  },
+  "homepage": "https://github.com/8ivek/nodejs_tut#readme",
+  "dependencies": {
+    "nodemailer": "^4.6.4"
+  }
+}
