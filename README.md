@@ -1,16 +1,20 @@
-# nodejs_tut
-zero to hundred percent : nodejs tutorials for devs
+# Nodejs for Beginners
 
-##Usage
+Beginners guide to Nodejs.
+
+## How to use
 _node filename.extension_
 
-example:
+### example:
 
 > node index.js
 
-##NPM
-run __"npm install"__
-whenever we are requiring new modules
+## NPM
+
+Go inside folder specific folder and execute:
+> __"npm install"__
+
+*whenever you need new node modules*.
 
 ### reference
 https://www.w3schools.com/nodejs/
