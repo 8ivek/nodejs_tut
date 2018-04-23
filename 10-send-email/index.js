@@ -1,12 +1,12 @@
 var nodemailer = require('nodemailer');
 
 var smtpConfig = {
-    host: 'secure.emailsrvr.com',
+    host: 'YOUR-SMTP-HOST',
     port: 465,
     secure: true, // use SSL
     auth: {
-        user: 'no-reply@rt7.net',
-        pass: '****'
+        user: 'YOUR-SMTP-USERNAME',
+        pass: 'YOUR-SMTP-PASSWORD'
     },
     tls: {
         rejectUnauthorized: false
