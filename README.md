@@ -7,14 +7,14 @@ _node filename.extension_
 
 ### example:
 
-> node index.js
+> __node index.js__
 
 ## NPM
 
-Go inside folder specific folder and execute:
-> __"npm install"__
+Go inside folder specific folders and execute:
+> __npm install__
 
-*whenever you need new node modules*.
+*wherever there is package.json (or package-lock.json) file*.
 
 ### Reference
 https://www.w3schools.com/nodejs/
